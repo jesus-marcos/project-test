@@ -3,6 +3,9 @@
     <title>
       Test project
     </title>
+    <style>
+      h1 {color:red;}
+    </style>
   </head>
   <body>
     <section>
@@ -11,9 +14,6 @@
       </div>
     </section>
   </body>
-<style>
-  h1 {color: #ff0000;}
-</style>
 </html>
 
 
